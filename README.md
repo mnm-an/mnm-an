@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm mnm_an</h1>
-<h2 align="center">Cybersecurity Student | Web Application Security | Penetration Tester |</h2>
+<h2 align="center">Cybersecurity Student | Cryptographer | Web Application Security |</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
